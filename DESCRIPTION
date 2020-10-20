@@ -1,0 +1,15 @@
+Package: ODBbB
+Type: Package
+Title: Operating on Data block by block
+Version: 0.1.0
+Author: Glen Llaci
+Maintainer: Glen Llaci <glen_llaci@yahoo.com>
+Description: The `ODBbB`package has three core functions. Transposing the data table Block by block,
+              Inversing and taking two different data tables or matrices and executing the product
+              between their blocks. There are also some other functions that return to the user the
+              Mean or the SD of a matrix block by block (even if we have a large data table).
+License: GPL-2
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+LazyData: true
+RoxygenNote: 7.1.1
