@@ -1,0 +1,7 @@
+Once you have installed the packages "usethis" & "devtools" on your 
+R environment. You can install the 'ODBbB' R package by the previouse
+commands:
+
+library(usethis)
+library(devtools)
+devtools::install_github("GlenDu/ODBbB")
